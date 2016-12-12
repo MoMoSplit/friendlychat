@@ -1,4 +1,8 @@
-# Firebase Codelab: FriendlyChat
+[![MoMo Split](header.jpeg)](http://www.meetup.com/mobilemondaysplit/)
+
+# Together with Google developers & Mobile Monday Split
+
+## Firebase Codelab: FriendlyChat
 
 This is the source code for the Firebase FriendlyChat codelab. It includes start and end versions of the
 code for Web, Android, Objective-C and Swift. To get started open the codelab instructions:
@@ -9,9 +13,9 @@ code for Web, Android, Objective-C and Swift. To get started open the codelab in
  - [Objective-C Codelab](https://codelabs.developers.google.com/codelabs/firebase-ios-objc/).
 
 
-## How to make contributions?
+### How to make contributions?
 Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md)
 
 
-## License
+### License
 See [LICENSE](LICENSE)
