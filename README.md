@@ -2,12 +2,14 @@
 
 # Together with Google developers & Mobile Monday Split
 
+
 ## Tools needed: ##
 
 - [Git](https://git-scm.com/downloads)
 - Git gui client [optional]
 - [NodeJs](https://nodejs.org/en/)
 - [Visual Studio Code](https://code.visualstudio.com/Download) or other oditor of choice
+
 
 ## Firebase Codelab: FriendlyChat
 
@@ -20,9 +22,18 @@ code for Web, Android, Objective-C and Swift. To get started open the codelab in
  - [Objective-C Codelab](https://codelabs.developers.google.com/codelabs/firebase-ios-objc/).
 
 
+### Step 0 ###
+
+`git clone git@github.com:MoMoSplit/friendlychat.git`  
+or  
+`git clone https://github.com/MoMoSplit/friendlychat.git`
+
+
 ### How to make contributions?
+
 Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md)
 
 
 ### License
+
 See [LICENSE](LICENSE)
