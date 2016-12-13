@@ -2,6 +2,13 @@
 
 # Together with Google developers & Mobile Monday Split
 
+## Tools needed: ##
+
+- [Git](https://git-scm.com/downloads)
+- Git gui client [optional]
+- [NodeJs](https://nodejs.org/en/)
+- [Visual Studio Code](https://code.visualstudio.com/Download) or other oditor of choice
+
 ## Firebase Codelab: FriendlyChat
 
 This is the source code for the Firebase FriendlyChat codelab. It includes start and end versions of the
