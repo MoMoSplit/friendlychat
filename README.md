@@ -22,18 +22,13 @@ code for Web, Android, Objective-C and Swift. To get started open the codelab in
  - [Objective-C Codelab](https://codelabs.developers.google.com/codelabs/firebase-ios-objc/).
 
 
-### Step 0 ###
+## Step 0 ##
 
 `git clone git@github.com:MoMoSplit/friendlychat.git`  
 or  
 `git clone https://github.com/MoMoSplit/friendlychat.git`
 
 
-### How to make contributions?
-
-Please read and follow the steps in the [CONTRIBUTING.md](CONTRIBUTING.md)
-
-
-### License
+## License
 
 See [LICENSE](LICENSE)
