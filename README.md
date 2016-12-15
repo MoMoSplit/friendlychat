@@ -28,6 +28,17 @@ code for Web, Android, Objective-C and Swift. To get started open the codelab in
 or  
 `git clone https://github.com/MoMoSplit/friendlychat.git`
 
+### Step 0.1 ###
+
+Open account on [https://codeanywhere.com/](https://codeanywhere.com/)
+
+
+### Few tips ###
+
+On Codeanywhere dev environment we will be using slightly different command params:
+- Instead of `firebase login` use `firebase login --no-localhost`
+- Instead of `firebase serve` use `firebase serve -o 0.0.0.0`
+
 
 ## License
 
